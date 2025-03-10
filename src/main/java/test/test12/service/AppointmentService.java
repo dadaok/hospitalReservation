@@ -87,8 +87,6 @@ public class AppointmentService {
             log.info(builder.toString());
         });
 
-        Collectors.groupingBy
-
 //        Monday: [Alice (10:00), Bob (14:30)]
 //        Wednesday: [Charlie (16:00)]
 //        Friday: [Bob (09:00)]
